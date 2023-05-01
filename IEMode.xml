@@ -1,19 +1,19 @@
-<site-list version="1">
+<site-list version="2">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>05/01/2023 18:26:22</date-created>
+    <date-created>05/01/2023 20:38:29</date-created>
   </created-by>
   <site url="ottumwa.rightnow.pcsrcs.com/dblwebservice/Authorisation/Login/LoginEntry.aspx">
-    <compat-mode>Default</compat-mode>
+    <compat-mode>IE5</compat-mode>
     <open-in>IE11</open-in>
   </site>
   <site url="10.0.100.224">
-    <compat-mode>Default</compat-mode>
+    <compat-mode>IE5</compat-mode>
     <open-in>IE11</open-in>
   </site>
   <site url="10.72.6.52">
-    <compat-mode>Default</compat-mode>
+    <compat-mode>IE5</compat-mode>
     <open-in>IE11</open-in>
   </site>
 </site-list>
