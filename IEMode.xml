@@ -1,8 +1,8 @@
-<site-list version="2">
+<site-list version="3">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>05/01/2023 20:38:29</date-created>
+    <date-created>05/01/2023 20:56:37</date-created>
   </created-by>
   <site url="ottumwa.rightnow.pcsrcs.com/dblwebservice/Authorisation/Login/LoginEntry.aspx">
     <compat-mode>IE5</compat-mode>
@@ -13,6 +13,18 @@
     <open-in>IE11</open-in>
   </site>
   <site url="10.72.6.52">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dm-dvr-1">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lb-dvr-1">
+    <compat-mode>IE5</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="lb-dvr-2">
     <compat-mode>IE5</compat-mode>
     <open-in>IE11</open-in>
   </site>
